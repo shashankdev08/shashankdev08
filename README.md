@@ -164,15 +164,15 @@ Comprehensive backend system for managing academic operations.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amishashank&show_icons=true&theme=radical&locale=en" alt="amishashank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankdev08&show_icons=true&theme=radical&locale=en" alt="shashankdev08" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amishashank&theme=radical" alt="amishashank" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankdev08&theme=radical" alt="shashankdev08" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amishashank&show_icons=true&theme=radical&locale=en&layout=compact" alt="amishashank" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankdev08&show_icons=true&theme=radical&locale=en&layout=compact" alt="shashankdev08" />
 </p>
 
 ---
@@ -199,17 +199,17 @@ Comprehensive backend system for managing academic operations.
 ## 📫 How to Reach Me
 
 - 📧 Email: **helloiamshashank@gmail.com**
-- 💼 LinkedIn: **[amishashank](https://linkedin.com/in/amishashank)**
+- 💼 LinkedIn: **[shashankdev](https://www.linkedin.com/in/shashankdev/)**
 - 📱 Mobile: **+91 7355573051**
 - 🌐 Portfolio: **[https://iamshashank.tiiny.site/](https://iamshashank.tiiny.site/)**
-- 💻 GitHub: **[amishashank](https://github.com/amishashank)**
+- 💻 GitHub: **[shashankdev08](https://github.com/shashankdev08)**
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amishashank&theme=radical&no-frame=true&row=1&column=7" alt="amishashank" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shashankdev08&theme=radical&no-frame=true&row=1&column=7" alt="shashankdev08" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/amishashank">Shashank Pandey</a></i>
+  <i>⭐️ From <a href="https://github.com/shashankdev08">Shashank Pandey</a></i>
 </p>
