@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](shashankdev08.github.io/AvenZ/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shashankdev08.github.io/AvenZ/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloiamshashank@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-00B4D8?style=for-the-badge&logo=googledrive&logoColor=white)](mailto:helloiamshashank@gmail.com)
 
@@ -282,7 +282,7 @@ Multi-tenant inventory management system for shopkeepers and SMBs with built-in 
 |:---:|:---|
 | 💼 LinkedIn | [linkedin.com/in/shashankdev](https://linkedin.com/in/shashankdev) |
 | 📧 Email | [helloiamshashank@gmail.com](mailto:helloiamshashank@gmail.com) |
-| 🌐 Portfolio | [shashankdev](shashankdev08.github.io/AvenZ/) |
+| 🌐 Portfolio | [shashankdev](https://shashankdev08.github.io/AvenZ/) |
 | 📱 Mobile | +91 7355573051 |
 | 📍 Location | Pune, Maharashtra, India |
 
@@ -292,7 +292,7 @@ Multi-tenant inventory management system for shopkeepers and SMBs with built-in 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amishashankp)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamshashank08)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloiamshashank@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](shashankdev08.github.io/AvenZ/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shashankdev08.github.io/AvenZ/)
 
 <br/>
 
